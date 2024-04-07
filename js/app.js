@@ -49,7 +49,8 @@ let claves = [
     // Función botonera
     
     function codificartexto() {    
-            let textoProcesado = procesarTexto(separador = "");                     
+            let textoProcesado = procesarTexto(separador = "");
+            textoCodificado.style.height = "80%"                     
             textoCodificado.innerHTML = textoProcesado.join("");
     }
     

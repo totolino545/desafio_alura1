@@ -144,7 +144,6 @@ textarea{
 #texto_codificado{
     margin: 15px 10px;
     height: 0%;
-    max-height: 80%;
     overflow-y: auto;
 }
 .textodeco{
@@ -278,10 +277,6 @@ footer {
     .botonera_copiar{
         margin-top: 5px; 
         height: 40%;
-    }
-    #boton_copiar{
-        
-        /* height: 100%; */
     }
     
     footer{
